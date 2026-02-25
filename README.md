@@ -1,0 +1,1 @@
+Analyzed loan data using Power BI to identify trends in loan approvals, defaults, and customer behavior. Performed data cleaning with Power Query and created DAX measures for key KPIs. Built an interactive dashboard for risk analysis and decision-making. Tech Stack: Power BI, Power Query, DAX
